@@ -67,6 +67,7 @@ public class employeeClass {
           //return noOfMaleAndFemaleEmployees;
            
          //female = 6 male =11
+           //somi
            }
         	   // 1.1: how many female employees in the organization?
            //femaleName
